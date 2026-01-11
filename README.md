@@ -23,6 +23,12 @@ When such an opportunity is detected, the bot:
 2. Purchases the Down token in the BTC market
 3. Waits for market resolution to realize profit
 
+### Results
+
+Here's an example of an arbitrage trade executed by the bot:
+
+![Arbitrage Trade Results](docs/arb-screenshot.png)
+
 ### Architecture
 
 - **API Client** (`api.rs`): Handles communication with Polymarket's Gamma API and CLOB API
